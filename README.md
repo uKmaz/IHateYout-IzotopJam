@@ -1,16 +1,14 @@
 # I Hate You - IzotopJam ☄️🔄
 
-> **A chaotic co-op endless survival game created during IzotopJam (DePark Gamejam).**
+> **A chaotic 2-player survival game developed by a duo in 55 hours (out of 72, mostly due to the sea and having too much fun! 🌊) for the IZOTOP Game Jam.**
 
-**I Hate You** is a fast-paced, 2-player survival game where you and your partner must dodge obstacles, survive random catastrophic events, and stay alive as long as possible. The longer you survive, the higher your score—but the game will try everything in its power to stop you!
+**I Hate You** follows the jam's "Companion" theme with a dark sense of irony. It's a fast-paced survival game where you and your partner are mechanically bound to each other. You will face various catastrophic events and must use your shared abilities perfectly. If you don't coordinate efficiently... true to its name, you will end up hating each other by the end of the game!
 
 ---
 
-<!-- 🎥 Fiuby (YouTube/Itch.io) Oynanış Videosu Linki Buraya Gelecek -->
-📺 **[Oynanış Videosunu İzle / Watch Gameplay Here](PLACEHOLDER_FIUBY_LINK)**
+📺 **[Play on Fiuby / Oyunu İncele](https://fiuby.com/games/i-hate-you)**
 
-<!-- 📸 Klasör içindeki GIF dosyasının adı buraya gelecek (Örn: oynanis.gif) -->
-![I Hate You Gameplay](PLACEHOLDER_GAMEPLAY_GIF)
+![I Hate You Gameplay](I%20Hate%20You%20Gameplay.gif)
 
 ---
 
